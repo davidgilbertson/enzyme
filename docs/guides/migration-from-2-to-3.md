@@ -9,7 +9,7 @@ on react internals, and to make enzyme more "pluggable", paving the way for enzy
 with "React-like" libraries such as Preact and Inferno.
 
 We have done our best to make enzyme v3 as API compatible with v2.x as possible, however there are
-a hand full of breaking changes that we decided we needed to make, intentionally, in order to
+a handful of breaking changes that we decided we needed to make, intentionally, in order to
 support this new architecture and also improve the usability of the library long-term.
 
 Airbnb has one of the largest enzyme test suites, coming in at around 30,000 enzyme unit tests.
